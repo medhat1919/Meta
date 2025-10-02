@@ -32,7 +32,7 @@ const Feedback = () => (
 
 <motion.div variants={fadeIn('left', 'tween', 0.2, 1)} className="flex-[0.75] flex justify-center flex-col ">
 <div className=' h-[450px]  rounded-3xl'>
-  <img src="planet-09.png" alt=""  className='w-full h-full rounded-3xl object-cover  ' /></div>
+  <img src="/planet-09.png" alt=""  className='w-full h-full rounded-3xl object-cover  ' /></div>
 </motion.div>
 
 

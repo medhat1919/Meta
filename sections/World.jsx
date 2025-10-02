@@ -28,21 +28,21 @@
     <img src="/map.png" alt="map" className="w-full h-full object-cover" />
     
     <div className="absolute bottom-20 right-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
-      <img src="people-01.png" alt="people" className="w-full h-full" />
+      <img src="/people-01.png" alt="people" className="w-full h-full" />
     </div>
        <div className="hidden lg:block absolute top-1/2 left-[25%] w-[170px] h-[120px] p-[6px]  ">
-      <img src="planet-02.png" alt="people" className="w-full h-full rounded-xl" />
+      <img src="/planet-02.png" alt="people" className="w-full h-full rounded-xl" />
       <h1 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-[10px] font-bold">The Upside Down</h1>
     </div>
     <div className="absolute top-10 left-20 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
-      <img src="people-02.png" alt="people" className="w-full h-full" />
+      <img src="/people-02.png" alt="people" className="w-full h-full" />
       
     </div>
     <div className="absolute top-1/2 left-[45%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5d6680]">
-      <img src="people-03.png" alt="people" className="w-full h-full" />
+      <img src="/people-03.png" alt="people" className="w-full h-full" />
     </div>
     <div className="hidden lg:block absolute top-[200px] right-[300px] w-[170px] h-[120px] p-[6px] ">
-      <img src="planet-06.png" alt="people" className="w-full h-full rounded-xl" />
+      <img src="/planet-06.png" alt="people" className="w-full h-full rounded-xl" />
       <h1 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-[10px] font-bold">Hawkins Labs</h1>
     </div>
   </motion.div>
